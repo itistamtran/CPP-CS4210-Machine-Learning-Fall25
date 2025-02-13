@@ -1,3 +1,3 @@
 # CPP-CS4210-Machine-Learning-Fall25
 
-#This is assignment 1 where building and visualizing a decision tree for classifying whether or not contact lenses should be prescribed based on attributes such as age, spectacle prescription, astigmatism, and tear production rate. Getting data from a CSV file,  converts these categories into numerical from suitable for machine learning, and uses these transformed data to train a decision tree. 
+This is assignment 1 where building and visualizing a decision tree for classifying whether or not contact lenses should be prescribed based on attributes such as age, spectacle prescription, astigmatism, and tear production rate. Getting data from a CSV file,  converts these categories into numerical from suitable for machine learning, and uses these transformed data to train a decision tree. 
