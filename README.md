@@ -36,6 +36,6 @@ B.S. Computer Science, Minors in Data Science and Mathematics
 ## 👨‍🏫 Course Info
 
 **Course:** CS 4210 - Machine Learning and Its Applications  
-**Instructor:** Dr. Ericsson Santana Marin 
+**Instructor:** Dr. Ericsson Santana Marin            
 **Semester:** Fall 2025  
 **Institution:** Cal Poly Pomona
