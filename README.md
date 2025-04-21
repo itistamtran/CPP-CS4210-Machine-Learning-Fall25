@@ -30,7 +30,7 @@ Each branch in this repository corresponds to a specific assignment or project f
 
 ## ✍️ Author
 
-Tam Tran
+Tam Tran               
 B.S. Computer Science, Minors in Data Science and Mathematics
 
 ## 👨‍🏫 Course Info
