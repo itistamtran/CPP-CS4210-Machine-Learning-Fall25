@@ -26,4 +26,16 @@ Each branch in this repository corresponds to a specific assignment or project f
 - scikit-learn
 - TensorFlow / Keras
 - PIL (Pillow)
-- Matplotlib 
+- Matplotlib
+
+## ✍️ Author
+
+Tam Tran
+B.S. Computer Science, Minors in Data Science and Mathematics
+
+## 👨‍🏫 Course Info
+
+**Course:** CS 4210 - Machine Learning and Its Applications  
+**Instructor:** Dr. Ericsson Santana Marin 
+**Semester:** Fall 2025  
+**Institution:** Cal Poly Pomona
