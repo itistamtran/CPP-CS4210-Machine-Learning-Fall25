@@ -6,7 +6,7 @@ Each branch in this repository corresponds to a specific assignment or project f
 
 ## 📚 Structure
 
-- `main`: Base branch (empty)
+- `main`: Base branch (contains README.md)
 - [`assignment1-decision-tree`](https://github.com/itistamtran/CPP-CS4210-Machine-Learning-Fall25/tree/assignment1-decision-tree)  
   Train and visualize a decision tree classifier for contact lens prescription using only basic Python structures (no libraries).
 
