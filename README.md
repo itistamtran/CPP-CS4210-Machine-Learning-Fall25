@@ -31,7 +31,7 @@ Each branch in this repository corresponds to a specific assignment or project f
 ## ✍️ Author
 
 Tam Tran               
-B.S. Computer Science, Minors in Data Science and Mathematics
+Computer Science | Data Science | Mathematics       
 
 ## 👨‍🏫 Course Info
 
